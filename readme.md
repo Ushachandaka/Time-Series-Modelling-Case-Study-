@@ -8,6 +8,7 @@
 
 # Overview
 
+
 This project develops and evaluates a complete electricity demand forecasting pipeline for Germany using historical electricity load data from **Open Power System Data (OPSD)** and historical weather data from **Open-Meteo**.
 
 The study compares classical statistical forecasting methods, machine learning algorithms, and deep learning models to determine the most suitable approach for operational electricity demand forecasting.
